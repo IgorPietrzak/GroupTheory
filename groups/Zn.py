@@ -31,7 +31,7 @@ class Zn:
             print("--------------")
     
     def op(self, a, b):
-        return (a*b) & self.number
+        return (a*b) % self.number
 
     def cayley(self):
         row = self.make()
