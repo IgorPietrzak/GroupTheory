@@ -1,5 +1,4 @@
 from groups.Zn import Zn
-from tabulate import tabulate
 
 
 def main():

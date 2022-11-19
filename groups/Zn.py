@@ -1,5 +1,4 @@
 from math import gcd
-from sympy import *
 # This is a multiplicative group of integers modulo n
 
 class Zn:
